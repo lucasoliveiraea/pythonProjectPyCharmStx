@@ -8,10 +8,10 @@ imposto = float(salarioBruto * 7/100)
 if salarioBruto <= 350:
     gratificacao = float(100)
     totalReceber = float(salarioBruto - imposto + gratificacao)
-elif salarioBruto > 350 and salarioBruto <= 600:
+elif 350 < salarioBruto <= 600:
     gratificacao = float(75)
     totalReceber = float(salarioBruto - imposto + gratificacao)
-elif salarioBruto > 601 and salarioBruto <= 900:
+elif 601 < salarioBruto <= 900:
     gratificacao = float(50)
     totalReceber = float(salarioBruto - imposto + gratificacao)
 else:
