@@ -1,4 +1,4 @@
-# Algoritimo Tarefa 005: Receber nomes e salários (While)
+# Algoritimo Tarefa 006: Receber nomes e salários (While)
 # Dev: Lucas Oliveira
 # Data: 05.08.2022
 
